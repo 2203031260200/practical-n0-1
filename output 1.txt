@@ -1,0 +1,3 @@
+
+fahrenheit is :89.6
+celcius conversion is :32.0
